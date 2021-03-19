@@ -63,7 +63,7 @@ PHPIniDir "C:/php73"
 
 ## PHP7.3
 
-- [Dpwnlpad](https://windows.php.net/download#php-7.3)
+- [Download](https://windows.php.net/download#php-7.3)
   - [VC15 x64 Thread Safe](https://windows.php.net/downloads/releases/php-7.3.27-Win32-VC15-x64.zip)
 
 **php.ini-developmentをコピー**
@@ -83,7 +83,7 @@ extension=pdo_mysql
 
 ## MySQL5.7
 
-- [Dpwnlpad](https://downloads.mysql.com/archives/community/)
+- [Download](https://downloads.mysql.com/archives/community/)
   - [Windows (x86, 64-bit), ZIP Archive](https://downloads.mysql.com/archives/get/p/23/file/mysql-5.7.32-winx64.zip)
 
 
@@ -113,7 +113,7 @@ sql_mode=NO_ENGINE_SUBSTITUTION,STRICT_TRANS_TABLES
 
 ### インストーラー
 
-- [Dpwnlpad](https://getcomposer.org/Composer-Setup.exe)
+- [Download](https://getcomposer.org/Composer-Setup.exe)
   - %USERPROFILE%\AppData\Roaming\Composer\vendor\bin
   - C:\ProgramData\ComposerSetup\bin\composer
   - C:\ProgramData\ComposerSetup\bin\composer.bat
