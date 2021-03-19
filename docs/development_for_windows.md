@@ -74,6 +74,7 @@ PHPIniDir "C:/php73"
 
 ```ini
 extension_dir = "ext"
+extension=curl
 extension=intl
 extension=mbstring
 extension=openssl
