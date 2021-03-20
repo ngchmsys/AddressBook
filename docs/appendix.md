@@ -44,3 +44,8 @@ make test
 ```sh
 make install
 ```
+
+
+# for windows
+
+- [Windows](https://wiki.php.net/internals/windows/stepbystepbuild_sdk_2)
