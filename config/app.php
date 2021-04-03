@@ -76,7 +76,7 @@ return [
      *   You should treat it as extremely sensitive data.
      */
     'Security' => [
-        'salt' => env('SECURITY_SALT', '7c9ae6a84d68eb6f06123f5eaa16dd2681fac50c502fb662d130890ae45e8e48'),
+        'salt' => env('SECURITY_SALT', 'fd95d30170b4ca35b14143b39660c31d2f7af1966b889e7e934213b819110bc4'),
     ],
 
     /**
@@ -263,9 +263,9 @@ return [
              * the following line and set the port accordingly
              */
             //'port' => 'non_standard_port_number',
-            'username' => 'my_app',
-            'password' => 'secret',
-            'database' => 'my_app',
+            'username' => 'myapp',
+            'password' => 'YourPassword',
+            'database' => 'address_book',
             /*
              * You do not need to set this flag to use full utf-8 encoding (internal default since CakePHP 3.6).
              */
